@@ -18,6 +18,21 @@ let web = [{
         link_repo: "https://github.com/Nyulian122/To_Do_List?authuser=0",
         github_page: "https://nyulian122.github.io/To_Do_List/?authuser=0",
         descripcion: "Realize un todo list para mi portafolio"
+    },
+    {
+        nombre: "IMC",
+        img: "https://github.com/Nyulian122/Imagenes_Tarea/blob/main/Captura%20de%20pantalla%202024-06-17%20090244.png?raw=true",
+        descripcion: "Este trabajo analiza tu indice de masa corporal segun tu altura y kilos"
+    },
+    {
+        nombre: "Generador de contrasenas",
+        img: "https://github.com/Nyulian122/Imagenes_Tarea/blob/main/Captura%20de%20pantalla%202024-06-17%20090155.png?raw=true",
+        descripcion: "Genera una contrasena segura con unas condiciones por cumplir"
+    },
+    {
+        nombre: "Visualizador de datos",
+        img: "https://github.com/Nyulian122/Imagenes_Tarea/blob/main/Captura%20de%20pantalla%202024-06-17%20085928.png?raw=true",
+        descripcion: "Este es un proyecto que analiza la cantidad de palabras oraciones etc"
     }
 ]
 
